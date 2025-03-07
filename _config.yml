@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Tack Chen
-subtitle: Tack Chen
-description: '一花一世界 一叶一菩提'
-keywords: tackchen
-author: tackchen
-language: zh-CN
+title: VND
+subtitle: Vo Ngoc Duy
+description: 'Nhất hoa nhất thế giới, nhất diệp nhất bồ đề.'
+keywords: vnd
+author: vnd
+language: vi-VN
 timezone: ''
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://theajack.github.io/
+url: https://vndnw.github.io/
 permalink: posts/:id/
 permalink_defaults:
   lang: en

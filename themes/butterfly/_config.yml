@@ -3,15 +3,15 @@
 # --------------------------------------
 
 menu:
-  主页: / || fas fa-home
-  档案: /archives/ || fas fa-archive
-  标签: /tags/ || fas fa-tags
-  分类: /categories/ || fas fa-folder-open
+  HOME: / || fas fa-home
+  ARCHIVES: /archives/ || fas fa-archive
+  TAGS: /tags/ || fas fa-tags
+  CATEGORIES: /categories/ || fas fa-folder-open
   # List||fas fa-list:
   #   Music: /music/ || fas fa-music
   #   Movie: /movies/ || fas fa-video
-  作品: /link/ || fas fa-link
-  关于: /about/ || fas fa-heart
+  LINK: /link/ || fas fa-link
+  ABOUT: /about/ || fas fa-heart
 
 # Code Blocks (代碼相關)
 # --------------------------------------
@@ -35,10 +35,10 @@ copy:
 # formal:
 #   icon: link || the description
 social:
-  fab fa-github: https://github.com/theajack || Github
-  fas fa-envelope: mailto:theajack@qq.com || Email
-  fab fa-weibo: https://weibo.com/u/5304330572 || Weibo
-  fab fa-telegram: https://blog.csdn.net/yanxiaomu || csdn
+  fab fa-github: https://github.com/vndnw || Github
+  fas fa-envelope: mailto:vndnetwork@gmail.com || Email
+  # fab fa-weibo: https://weibo.com/u/5304330572 || Weibo
+  fab fa-telegram: https://t.me/duyiii || Telegram
 
 # search (搜索)
 # see https://butterfly.js.org/posts/ceeb73f/#搜索系統
@@ -78,11 +78,11 @@ katex:
 # --------------------------------------
 
 # Favicon（網站圖標）
-favicon: https://avatars.githubusercontent.com/u/23377279?s=40&v=4
+favicon: https://avatars.githubusercontent.com/vndnw?s=40&v=4
 
 # Avatar (頭像)
 avatar:
-  img: https://avatars.githubusercontent.com/u/23377279?v=4
+  img: https://avatars.githubusercontent.com/vndnw
   effect: false
 
 # Disable all banner image
@@ -618,15 +618,16 @@ subtitle:
   # 如果關閉打字效果，subtitle 只會顯示 sub 的第一行文字
   sub:
     - Stay Hungry, Stay Foolish
-    - 人最大的痛苦，就是无法跨越知道和做到的鸿沟
-    - 认识错误是拯救自己的第一步
-    - 知识是为了预见，预见是为了权力
-    - 存在就是合理，合理的也都要存在
-    - 万物所由之而生的东西，万物消灭后复归于它
-    - 幸福不过是欲望的暂时停止
-    - 我思故我在!
-    - 要么庸俗，要么孤独
-    - 勇敢里面有天才、力量和魔法
+    - Nỗi khổ lớn nhất của con người là biết mà không làm được.
+    - Biết sai mà sửa là bước đầu để cứu lấy chính mình.
+    - Học để nhìn xa, nhìn xa để nắm quyền trong tay.
+    - Cái gì đang tồn tại ắt có lý do, và cái hợp lý thì phải có chỗ đứng.
+    - Mọi thứ sinh ra từ đâu, rồi cũng quay về đó.
+    - Hạnh phúc chỉ là khoảnh khắc ta ngừng mong cầu.
+    - Tôi suy nghĩ, vậy là tôi đang sống!
+    - Hoặc sống tầm thường, hoặc chấp nhận cô đơn.
+    - Dũng cảm chứa đựng tài năng, sức mạnh và cả phép màu.
+    - ...
 
 # Loading Animation (加載動畫)
 preloader: false

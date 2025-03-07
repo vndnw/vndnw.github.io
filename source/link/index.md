@@ -1,5 +1,5 @@
 ---
-title: <一些作品/>
+title: <一Link/>
 type: "link"
 top_img:
 ---
