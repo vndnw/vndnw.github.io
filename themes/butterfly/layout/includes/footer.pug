@@ -1,11 +1,15 @@
-#footer-wrap
+#footer-wrap 
   if theme.footer.owner.enable
     - var now = new Date()
     - var nowYear = now.getFullYear()
     if theme.footer.owner.since && theme.footer.owner.since != nowYear
-      .copyright!= `&copy;${theme.footer.owner.since} - ${nowYear} by ❤️ ${config.author}`
+      .copyright 
+        | &copy;#{theme.footer.owner.since} - #{nowYear} by ❤️ 
+        a(href="https://github.com/vndnw" target="_blank") #{config.author}
     else
-      .copyright!= `&copy;${nowYear} by ❤️ ${config.author}`
+      .copyright 
+        | &copy;#{nowYear} by ❤️ 
+        a(href="https://github.com/vndnw" target="_blank") #{config.author}
   if theme.footer.copyright
     .framework-info
       //- span= _p('footer.framework') + ' '
