@@ -24,6 +24,11 @@ date: 2022-07-03 23:25:10
     <img align="center" height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theajack&hide=html&layout=compact&title_color=ffffff&icon_color=79ff97&text_color=aaaaaa&bg_color=0e1116&border_color=888888"/>
 </a>
 
+## Resume
+
+You can view or download my resume [here](files/resume.pdf).
+
+
 <!--
 ----
 
