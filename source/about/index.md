@@ -26,8 +26,7 @@ date: 2022-07-03 23:25:10
 
 ## Resume
 
-You can view or download my resume [here](files/resume.pdf).
-
+You can view or download my resume [here](/resume.pdf).
 
 <!--
 ----
